@@ -2,7 +2,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">"- ⚡ Quick bio:      A simple guy who likes games and technology<br>
-		🔭 I’m currently working on:      Studying Ignite at Trybe<br>
+		🔭 I’m currently working on:      Studying Ignite at RocketSeat<br>
 		🌱 I’m currently working:        HTML, CSS, JavaScript, TypeScript and REACT and sharpening my soft skills<br>
 		🤔 I’m looking for help with:     Web development<br>
 		💬 Ask me about:                  Games, technology, movies, anything from the geek world<br>
