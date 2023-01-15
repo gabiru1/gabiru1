@@ -55,6 +55,8 @@
 
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabiru1&langs_count=10&theme=chartreuse-dark&layout=compact" alt="gabiru :: Top Langs" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiru1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabiru1&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
