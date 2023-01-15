@@ -51,13 +51,3 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{gabiru1}/count.svg" alt="Gabiru :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[gabiru1]&langs_count=10&theme=chartreuse-dark&layout=compact" alt="gabiru :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gabiru1&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
-
-
----
