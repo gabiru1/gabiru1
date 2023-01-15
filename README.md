@@ -55,8 +55,6 @@
 
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabiru1&langs_count=10&theme=chartreuse-dark&layout=compact" alt="gabiru :: Top Langs" /></p>
 
-<img src="https://ionicabizau.github.io/github-profile-languages/api.html?gabiru1" alt="gabiru :: Top Langs" />
-
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabiru1&show_icons=true&theme=chartreuse-dark" alt="AnhellO :: Profile Stats" /></p>
