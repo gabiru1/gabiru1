@@ -1,7 +1,7 @@
 ### Oi! Eu sou Gabiru
 
 <h2 align="center">About me</h2>
-<p align="center">"- ⚡ Quick bio:      A simple guy who likes games and technology<br>
+<p align="center"> ⚡ Quick bio:      A simple guy who likes games and technology<br>
 		🔭 I’m currently working on:      Sorte Online<br>
 		🌱 I’m currently working with:        HTML, CSS, JavaScript, TypeScript and REACT and sharpening my soft skills<br>
 		🤔 I’m looking for help with:     Web development<br>
